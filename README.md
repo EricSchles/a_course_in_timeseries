@@ -24,3 +24,5 @@ http://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniqu
 http://greenteapress.com/wp/think-dsp/
 
 https://www.youtube.com/watch?v=_vQ0W_qXMxk
+
+https://medium.com/@bryan.gregory1/predicting-customer-churn-extreme-gradient-boosting-with-temporal-data-332c0d9f32bf?platform=hootsuite
